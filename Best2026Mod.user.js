@@ -6,15 +6,15 @@
 //@contributor  eliasoupas,margot
 //@description  MooMoo.io Dominator
 //@icon         https://static.wikia.nocookie.net/moom/images/e/e3/Hat_47.png/revision/latest/scale-to-width-down/250?cb=20171206232244
-//@require      https://rawgit.com/kawanet/msgpack-lite/master/dist/msgpack.min.js                                                                                                                                                                                                                                                                                                  
+//@require      https://rawgit.com/kawanet/msgpack-lite/master/dist/msgpack.min.js  
+//@run-in       normal-tabs                                                                                                                                                                                                                                                                                                
 //@require      https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js
 //@require      https://greasyfork.org/scripts/423602-msgpack/code/msgpack.js
 //@match        *://*.moomoo.io/*
 //@run-at       document_start
-//@updateURL 	https://github.com/BigNoOne/jetmod/raw/refs/heads/main/Jet%20Modr-v0.8.9%20(1).user.js
-//@downloadURL 	https://github.com/BigNoOne/jetmod/raw/refs/heads/main/Jet%20Modr-v0.8.9%20(1).user.js                                                                                                                                                                                                         
+//@updateURL 	https://raw.githubusercontent.com/BestModCreator/TopMooBots/main/Best2026Mod.user.js
+//@downloadURL 	https://raw.githubusercontent.com/BestModCreator/TopMooBots/main/Best2026Mod.user.js                                                                                                                                                                                                     
 //@grant        none                                                                                                                                                                                                        
-//@run-in       normal-tabs
 																																																																																																																																																																																																													//@include /moomoo.io|.*/
 // ==/UserScript==
 
