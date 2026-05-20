@@ -1,10 +1,9 @@
 // ==UserScript==
 
 //@name         Best 2026 Mod
-//@version      v3.6
+//@version      v3.95
 //@author       No one
-//@contributor  eliasoupas,margot
-//@description  MooMoo.io Dominator
+//@description  Currently the most op public mod which also has bots, placers, spike tick, instas, heals, and visuals
 //@icon         https://static.wikia.nocookie.net/moom/images/e/e3/Hat_47.png/revision/latest/scale-to-width-down/250?cb=20171206232244
 //@require      https://rawgit.com/kawanet/msgpack-lite/master/dist/msgpack.min.js  
 //@run-in       normal-tabs                                                                                                                                                                                                                                                                                                
